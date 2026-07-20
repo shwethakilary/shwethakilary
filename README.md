@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8a2be2,100:1e90ff&height=220&section=header&text=Shwetha%20kilari&fontColor=c9d1d9&fontSize=48&fontAlignY=38&desc=Master%E2%80%99s%20Student%20in%20Computer%20Science%20%7C%20Experienced%20Software%20Developer%20%7C%20Skilled&descAlignY=58&descSize=18&animation=fadeIn" alt="Shwetha kilari — Master’s Student in Computer Science | Experienced Software Developer | Skilled" width="100%" />
 
-</div>
+</div> 
 
 <div align="center">
 
